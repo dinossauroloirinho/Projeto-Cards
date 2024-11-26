@@ -1,68 +1,68 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'harry potter',
+    'pra qual casa foi selecionado o harry?',
+    'grifinoria'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
+    'história',
+    'qual a capital da frança',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Esportes',
-    'O que é o futebol?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'frances',
+    'O que ssignifiuca ÇA Va?',
+    'tudo bem?'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz laranja em Inglês?',
+    'laranja em ingles é Orange '
 )
 
 criaCartao(
-    'Matemática',
-    'Como se calcula a área de um triângulo?',
-    'A área de um triângulo qualquer pode ser calculada, multiplicando a base pela sua altura e dividindo esse resultado por 2.'
+    'história',
+    'qual foi a principal proposta de governo do J.K?',
+    '50 anos de desenvolvimento em 5'
 )
 criaCartao(
-    'Matemática',
-    'O que diz o teorema de pitágoras?',
-    'Em todo triângulo retângulo a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa'
+    'marvel',
+    'qual é o filme mais legal da marvel?',
+    'guerra civil'
 )
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'harry potter',
+    'qual é a cor de cabelo do draco malfoy?',
+    'loiro'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'frances',
+    'omo se diz A mulher em frances?',
+    'La femme '
+)
+
+criaCartao(
+    'HISTÓRIA',
+    'a filha mais legal do ultimo czar russo',
+    'anastasia'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz bonito em Inglês?',
+    'bonito em ingles é pretty '
 )
 
 criaCartao(
-    'Matemática',
-    'Como se calcula a área de um triângulo?',
-    'A área de um triângulo qualquer pode ser calculada, multiplicando a base pela sua altura e dividindo esse resultado por 2.'
+    'harry potter',
+    'qual é a casa mais foda de harry potter?',
+    'sonserina'
 )
 criaCartao(
-    'Matemática',
-    'O que diz o teorema de pitágoras?',
-    'Em todo triângulo retângulo a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa'
+    'literatura',
+    'capitu traiu ou não traiu?',
+    'não traiu'
 )
